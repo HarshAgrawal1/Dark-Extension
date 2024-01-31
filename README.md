@@ -4,6 +4,8 @@
 
 Project Dark is a browser extension designed to empower users by detecting and highlighting dark patterns on websites. Dark patterns are user interface design choices crafted to manipulate or deceive users into taking actions they might not otherwise perform. This extension helps users identify such patterns, fostering a more transparent and user-friendly online experience.
 
+## Installation 
+https://docs.google.com/document/d/1wKcAP7ZINLyAo7WQFrAhpPc5l852K72_jO0pRjtKKd4/edit 
 
 <img width="2149" alt="darkextension" src="https://github.com/Project-Dark/Dark-Extension/assets/100071948/e592b1a7-0d65-48e9-b988-afc676326b9a">
 
